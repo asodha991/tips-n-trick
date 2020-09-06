@@ -2,6 +2,12 @@
 
 Please [click here to request access to BITS20 Org](AccessForm.md)
 
+## Fast and Quick Fix
+
+1. For short fix to this website, you can click on pencil icon and edit. Please make sure you are not in master branch.
+
+## Recommended Approach
+
 **Steps to contribute:**
 
 1. Fork [tips-n-trick](https://github.com/bits20/tips-n-trick) repository into your account on Github or  create a branch.

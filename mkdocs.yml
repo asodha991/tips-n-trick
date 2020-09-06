@@ -60,7 +60,9 @@ pages:
     - AIML.md
 - Bookmarks:
     - Bookmarks.md
-- Contributing:
+- Contribution:
     - HowToContribute.md
+- Assignments Code:
+    - AssignmentCode.md
 - Request Access:
     - AccessForm.md
