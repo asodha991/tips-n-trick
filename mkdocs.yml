@@ -1,0 +1,64 @@
+site_name: BITS20
+site_description: BITS20
+docs_dir: docs
+theme:
+  name: material
+  logo:
+    icon: home
+  font:
+    text: Work Sans
+    code: Menlo
+  favicon: static/images/favicon.png
+extra_css: ["static/css/extraCSS.css"]
+repo_url: "https://github.com/bits20/tips-n-trick"
+repo_name: 'tips-n-trick'
+copyright: 'Apache License 2.0'
+
+extra:
+  feature:
+    tabs: true
+  palette:
+    primary: red
+    accent: red
+  social:
+    - type: github-alt
+      link: https://github.com/bits20
+
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      guess_lang: true
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+
+pages:
+- Welcome: index.md
+- Pure Python:
+    - PythonQuickHelp.md
+- AI-ML Libraries:
+    - AIML.md
+- Bookmarks:
+    - Bookmarks.md
+- Contributing:
+    - HowToContribute.md

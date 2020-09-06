@@ -1,0 +1,38 @@
+h1 {
+  color: #0077C5;
+  }
+h2 {
+  color: black;
+  }
+h3 {
+  color: gray;
+  font-size: 21px;
+  }
+h4 {
+  color: gray;
+  font-size: 19px;
+  }
+
+
+li {
+  font-size: 16px;
+  }
+tr {
+  font-size: 16px;
+  }
+
+img[alt$=">"] {
+  float:right;
+}
+
+img[alt$="<"] {
+  float:left;
+}
+
+img[alt$="<>"] {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    float: none!important;
+}

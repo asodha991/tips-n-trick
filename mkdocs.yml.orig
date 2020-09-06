@@ -1,0 +1,13 @@
+site_name: BITS20
+docs_dir: docs
+theme: material
+extra_css: [extraCSS.css]
+
+pages:
+- Welcome: index.md
+- Pure Python:
+    - PurePython.md
+- AI-ML Libraries:
+    - AIML.md
+- Bookmarks:
+    - Bookmarks.md

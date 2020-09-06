@@ -1,0 +1,13 @@
+mkdocs==1.0.4
+mkdocs-material==3.1.0
+backports-abc==0.5
+Click==7.0
+Jinja2==2.10
+livereload==2.6.0
+Markdown==3.0.1
+MarkupSafe==1.1.0
+Pygments==2.3.0
+pymdown-extensions==6.0
+PyYAML==3.13
+singledispatch==3.4.0.3
+tornado==5.1.1
