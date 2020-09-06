@@ -1,5 +1,7 @@
 # How to Contribute
 
+Please [click here to request access to BITS20 Org](AccessForm.md)
+
 **Steps to contribute:**
 
 1. Fork [tips-n-trick](https://github.com/bits20/tips-n-trick) repository into your account on Github or  create a branch.
